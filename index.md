@@ -25,4 +25,4 @@ One change I would consider is establishing a more standardized experimental fra
 
 **4. What other techniques would you be interested in using in your project?**
 
-I am interested in exploring more types of reinforcement learning algorithms, especially trying to add large language models onto the controllers andI am interested in seeing how that approach can bring us different results as to before. 
+I am interested in exploring more types of reinforcement learning algorithms, especially trying to add large language models onto the controllers and I am interested in seeing how that approach can bring us different results as to before. 
